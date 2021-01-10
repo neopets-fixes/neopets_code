@@ -12,5 +12,6 @@
 <a href="https://raw.githubusercontent.com/neopets-fixes/neopets_code/main/Navigation Script/Nav_Beta_Bookmarks.js"><img src="https://i.imgur.com/s2iDB9g.png"></a>
 <p><h4>Editing the Bookmarks</h4>
 <p>
- - Ctrl+F Bookmarks, edit the HTML links below:
- <textarea><li><a href="">Bookmark</a></li></textarea>
+ - Ctrl+F Bookmarks
+ <br>- Edit HTML links, more can be added if required by pasting li codes.
+ <br><i>Keep the first and last link in place (feel free to edit) as they are formatted to fit in navigation.
