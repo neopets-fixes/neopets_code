@@ -2,7 +2,7 @@
 
 <p><b>Extensions required for use:<br>
 
-Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (Navigation / Search Beta)<br>
+Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (Navigation / Search Beta)<br> <i>See below.</i>
 Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</i>
 </b>
 
@@ -40,7 +40,7 @@ Many thanks to all of the friends who helped me through creating this, both with
 If you have UX suggestions, I am happy to fix and update. Please send them to neopets-betafix@outlook.com and be as descriptive as you can! (Screenshots help too.)
 
 <b>Final Note:</b>
-It's been interesting to see the things that the devs at TNT have coded, purposely left out, and missed. There are so many tiny aestethtic changes that were required (font-face updates, padding updates, etc.). I started to list them all, but the CSS needs a complete overhaul. I don't intend to be disrespectful, but I had to add a lot of code to fix the fine details. If TNT reads this and would like to contact me, I would be <b>SO HAPPY</b> to help them fine tune the little things. We love this site and my codes have been created to help us continue to love it.
+It's been interesting to see the things that the devs at TNT have coded, purposely left out, and missed. There are so many tiny aesthetic changes that were required (font-face updates, padding updates, etc.). I started to list them all, but the CSS needs a complete overhaul. I don't intend to be disrespectful, but I had to add a lot of code to fix the fine details. If TNT reads this and would like to contact me, I would be <b>SO HAPPY</b> to help them fine tune the little things. We love this site and my codes have been created to help us continue to love it.
 
 <b><i>These codes are specifically designed to change the aesthetics/UX of Neopets.com and in no way are intented to alter any specific advantages of gameplay. That said, please use at your own risk. Do not discuss script usage on Neopets. The current thoughts about aesthetic altering scripts with TNT are unknown.</i></b>
 
@@ -50,3 +50,10 @@ It's been interesting to see the things that the devs at TNT have coded, purpose
 <br>- Stylebot > Options > New style
 <br>- Enter url: <i>www.neopets.com</i>
  <br>- Copy & paste CSS into the body - <b>do not add style tags!</b>
+ 
+ <h2>Installing the Navigation</h2>
+ <p>
+ - Download Tampermonkey Extension (https://www.tampermonkey.net/)
+<br>- Tampermonkey > Dashboard > + (Add new script)
+<br>- Copy & paste code into the body > save as new script
+<br>- Alter HTML of links if you have included the bookmark option.
