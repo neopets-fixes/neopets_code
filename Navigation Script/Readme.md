@@ -14,7 +14,6 @@
 <p>
  - Ctrl+F Bookmarks
  <br>- Edit HTML links, more can be added if required by pasting li codes.
- <br><i>Keep the first and last link in place (feel free to edit) as they are formatted to fit in navigation.
  <br>- Save script
  
  <p><h1>Screenshots</h1>
