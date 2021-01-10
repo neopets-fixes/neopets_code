@@ -6,6 +6,6 @@
 <br>- Alter HTML of links if you have included the bookmark option.
 
 <h3>Navigation</h3>
-
+<a href="https://github.com/w35l3y/userscripts/raw/master/scripts/Neopets_Cliffhanger/28760.user.js">Install</a>
 
 <h3>Navigation w/ Bookmarks</h3>
