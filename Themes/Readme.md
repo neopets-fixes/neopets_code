@@ -10,4 +10,7 @@
 <i>(Drag and drop for full screen preview.)</i><p>
  
 <b>Desert Theme</b><br>
-<img src="https://i.imgur.com/CTExkcs.png" style="width:100px;">
+<img src="https://i.imgur.com/CTExkcs.png">
+
+<b>Stargazer Theme</b><br>
+<img src="https://i.imgur.com/1BBvXnk.png">
