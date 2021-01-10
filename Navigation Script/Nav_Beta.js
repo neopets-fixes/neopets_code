@@ -13,7 +13,7 @@
 
 (function() {
 
-if (typeof GM_addStyle == "undefined") GM_addStyle = GM.addStyle; //Access the GM_addStyle function from any script injector
+if (typeof GM_addStyle == "undefined") GM_addStyle = GM.addStyle;
 var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 
     //Style for the custom div element, or anything else for that matter!
