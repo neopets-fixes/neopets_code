@@ -384,3 +384,7 @@ div.boardPost {
   bottom: 0px;
   right: 0px;
 }
+
+#boardindex p, #boardTopic p, .boardDesc p {
+  color: black !important;
+}
