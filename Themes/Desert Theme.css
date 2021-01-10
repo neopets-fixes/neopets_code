@@ -1,0 +1,452 @@
+/* Theme: Desert Afternoon (Fully Customizable) */
+
+/* General Body Fixes */
+/* Includes Fonts, Backgrounds, etc */
+body {
+  background-color:#cfcfcf;
+  background-image: url("https://i.imgur.com/Kd5xpwR.png");
+}
+
+.hp-carousel-container {
+  border: 1px solid #cfcfcf; 
+  background-image: url("https://i.imgur.com/1BtMc3Z.png"); 
+  border-radius: 15px;
+  }
+
+#container__2020 {
+  background-image: url("https://i.imgur.com/0px7JSX.png") !important;
+  background-size: cover; 
+	}
+
+#container__2020 .medText a {
+  font-family: "MuseoSansRounded700", 'Arial Bold', sans-serif;
+  color: black;
+  font-weight: normal;
+  font-size: 9pt;
+  }
+
+#container__2020 p a, .quickmaps b a, #container__2020 p a:visited, .quickmaps b a:visited  {
+   font-family: "MuseoSansRounded700", 'Arial Bold', sans-serif;
+  color: black;
+  font-weight: normal;
+}
+
+.page-title__2020, .page-title__2020 h3, .page-title__2020 #pageDesc, .container p, #container__2020 .contentModuleHeaderAlt {
+  color: black !important;
+}
+
+ #container__2020 .medText, #container__2020 p a:hover {
+   color: grey;
+   }
+
+div.desc {
+  padding-left:5px;
+  font-family: "MuseoSansRounded700", 'Arial Bold', sans-serif;
+  color: black;
+  font-weight: normal;font-size: 10pt;
+  }
+
+
+/* Inventory, Items & Pop-ups */
+ .shop-bg, .haggle-item, #invDisplay, .lazy.item-img, .item-img  {
+  border: 1px solid #cfcfcf;
+  }
+
+ .inv-itemBox {
+  width: 80px;
+  height: 80px;}
+
+#petCare, .togglePopup__2020.movePopup__2020.petCare {
+  border: none;
+  }
+
+.popup-header__2020 h3 {color:black;
+font-weight:normal;
+}
+
+.popup-header__2020 {
+background-image: url("https://i.imgur.com/zhL6hj1.png") !important;
+background-position-y: 60%;
+background-size: 100%; color: black;
+}
+
+
+.popup-footer__2020.popup-grid3__2020 {
+background-image: url("https://i.imgur.com/zhL6hj1.png") !important;
+background-position-y: 80%;
+background-size: 100%; 
+color: black;
+}
+
+.quickLinks__2020 li, .quickMaps {
+  background: white;
+  }
+
+
+/* Customize Nav Bar */
+
+.nav-community__2020, .nav-games__2020, .nav-explore__2020, .nav-shop__2020, .nav-premium__2020.nav-link-leave-beta__2020, .dropdown-triangle-up__2020, #navprofiledropdown__2020 ul,  .nav-calendar-icon__2020.nav-link-leave-beta__2020, #navProfilePetBox__2020 {display:none;}
+
+.nav-top__2020 {
+  z-index: 99;
+    background-color: transparent !important;
+    background-image: url("https://i.imgur.com/zhL6hj1.png") !important;
+    background-position-y: 60%;
+    background-size: 100%;
+	  border-bottom: 1px solid #cacaca;
+}
+.nav-top-pattern__2020 {  
+    display: none; 
+}
+.nav-bottom__2020 {
+	  background: #3c7339;
+	  border-top: 1px solid #cacaca;
+}
+.nav-text__2020,
+.nav-text-bottom__2020 {
+  	color: #000;
+	  font-family: "Cafeteria", 'Arial Bold', sans-serif;
+	  text-align: center;
+}
+
+/* FOOTER */
+.footer__2020 {
+	  background-color: transparent !important;
+    background-image: url("https://i.imgur.com/zhL6hj1.png") !important;
+    background-position: bottom center;
+	  border-top: 1px solid #cacaca;
+    color: #000;
+}
+.footer-pattern__2020, .popup-header-pattern__2020 {
+	  display: none;
+}
+.footer-logo__2020 {
+	  background-image: url();
+}
+.footer-copyright__2020 {
+	  font-size: 10pt;
+	  font-family: "MuseoSansRounded700", 'Arial Bold', sans-serif;
+	  color: #000;
+}
+.footer-link__2020 {
+	  font-family: "Cafeteria", 'Arial Bold', sans-serif;
+	  color: #000;
+}
+.footer__2020 a {
+	  color: #000;
+}
+/* News Dropdown Styling */
+
+#navnewsdropdown__2020 {
+    background: black;
+}
+
+.news-tab-content__2020,
+.alerts-tab-content__2020,
+.tabActive__2020,
+.news-tab-viewall__2020,
+.alerts-tab-viewall__2020 {
+  background-color: #cacaca;
+
+}
+
+.tabHidden__2020 {
+    background: black;
+}
+
+.news-dropdown-text__2020 {
+    color: #ffffff;
+    font-family: "Cafeteria", 'Arial Bold', sans-serif;
+    font-size: 18pt;
+}
+
+.news-tab-icon__2020 {
+    background:  black;
+}
+
+.alerts-tab-icon__2020 {
+    background-image: url(../basic/images/v3/bell-icon.svg);
+    background-size: contain;
+}
+
+#alerts-notif__2020,
+#news-notif__2020 {
+    color: #fff;
+    background: #E1191D;
+}
+
+#newstab__2020 ul li {
+    border-bottom: 1px dashed black;
+    font-family: calibri;
+}
+
+.nav-dropdown__2020 {border-left: 1px solid black;}
+#newstab__2020 ul li h4 {
+    color: #000;
+}
+#navprofiledropdown__2020, .nav-profile-dropdown__2020.nav-dropdown__2020 {z-index: 100 !important;}
+
+/* Alerts dropdown styling */
+
+#alertstab__2020 ul li {
+    border: 2px solid grey;
+    background-color: white;
+    -webkit-box-shadow: 0px 3px 0px 0px rgb(90, 124, 139);
+    -moz-box-shadow: 0px 3px 0px 0px rgba(90, 124, 13);
+    box-shadow: 0px 3px 0px 0px rgba(90, 124, 13);
+}
+
+.alerts-tab-content__2020 {
+  color: black !important;
+}
+
+/*PROFILE MENU DROPDOWN*/
+
+.nav-profile-dropdown__2020 {
+    background: #cacaca;
+}
+
+.nav-profile-dropdown-text {
+    font-family: "MuseoSansRounded700", 'Arial', sans-serif;
+    color: black;
+    font-size: 11pt;
+}
+
+.nav-profile-dropdown__2020.nav-dropdown__2020 #nst {
+  color: black !important; 
+  text-transform: lowercase !important;
+  }
+
+.nav-profile-dropdown-text {
+  color: black !important;
+  width: 150px; 
+  display:inline-block;
+  text-transform: capitalize;
+  }
+
+ .nav-profile-dropdown-text a {
+    color: #5d66d5 !important;
+}
+
+.nav-profile-dropdown-text a:hover {
+  color: grey;
+}
+
+.nav-profile-dropdown-clock__2020 {
+  position:fixed;
+  top: 12px; 
+  right:125px; 
+  z-index: 120 !important; 
+  width: 180px; 
+  color: black !important; 
+  text-align: right; 
+  }
+
+.nav-profile-dropdown-clock__2020 div {
+  width: 180px;
+  }
+
+.text-muted {display:inline-block;
+  }
+
+.nav-profile-dropdown__2020.nav-dropdown__2020 {
+  display:inline; 
+  background: none; 
+  border: none; 
+  color: black !important; 
+  width: 600px; 
+  height: 80px; 
+  position:fixed; 
+  top: 8px; 
+  left: 238px;
+  }
+
+.nav-pet-menu-icon__2020:active {
+  display: none;
+  }
+
+
+/* Community Dropdown */
+
+#communitydropdown__2020,
+#communitydropdownbottom__2020,
+#shopdropdown__2020,
+#shopdropdownbottom__2020 {
+    background-color: #cacaca;
+    color: #ffffff;
+    border: 2px solid #cacaca;
+}
+
+#communitydropdown__2020 ul li,
+#communitydropdownbottom__2020 ul li,
+#shopdropdown__2020 ul li,
+#shopdropdownbottom__2020 ul li,
+#communitydropdown__2020 .neofriendsOnline,
+#communitydropdownbottom__2020 .neofriendsOnline {
+    border-bottom: 2px solid #cacaca;
+}
+
+#communitydropdown__2020 ul li:hover,
+#communitydropdownbottom__2020 ul li:hover,
+#shopdropdown__2020 ul li:hover,
+#shopdropdownbottom__2020 ul li:hover {
+    background-color: #7ccabd;
+}
+
+#communitydropdown__2020 a:visited,
+#communitydropdownbottom__2020 a:visited,
+#communitydropdown__2020 a,
+#communitydropdownbottom__2020 a,
+#shopdropdown__2020 a:visited,
+#shopdropdownbottom__2020 a:visited,
+#shopdropdown__2020 a,
+#shopdropdownbottom__2020 a {
+    color: #ffffff;
+}
+
+#shopdropdown__2020 h3,
+#shopdropdownbottom__2020 h3 {
+    color: #cacaca;
+}
+
+#shopdropdown__2020 .shopdropdown-tabs,
+#shopdropdownbottom__2020 .shopdropdown-tabs {
+    background-color: #8abab2;
+}
+
+#shopdropdown__2020 .shopdropdown-tab-active,
+#shopdropdownbottom__2020 .shopdropdown-tab-active {
+    background-color: #cacaca;
+}
+
+#shopdropdown__2020 .shopdropdown-tab-active h3,
+#shopdropdownbottom__2020 .shopdropdown-tab-active h3 {
+    color: #ffffff;
+}
+
+.communitydropdown-social {
+  display: none;
+}
+
+/* Boards */
+#boardIndex, #boardList, #boardTopic {
+  border-radius: 15px;
+  padding: 10px;
+  background-color: white;
+  border: none;
+}
+
+#boardCreateTopic {
+   border-radius: 15px;
+   border: none;
+   background-color: white;
+ }
+#boardList ul .pageNav .boardPageButton, #boardTopic .pageNav .boardPageButton {
+  color: black;
+}
+#boardList ul .pageNav .boardPageButton-active, #boardTopic .pageNav .boardPageButton-active {
+  background-color: black;
+}
+
+
+.topicReplyContainer table, #boardCreateTopic table {
+    border: 0px !important;
+    font-family: verdana;
+    font-size: 10px;
+    text-transform: lowercase;
+}
+.postAuthorPetIcon img {
+  border: 0px !important;
+  border-radius: 3px;
+}
+div.replyTopicButton-top {
+  background-color: black;
+  border: 0px;
+  padding-bottom: 10px;
+}
+div.replyTopicButton-top:hover {
+  color: white;
+  background-color: grey;
+}
+div.topicReplyTitle, #boardCreateTopic h1 {
+  background-color: grey
+}
+div a span {
+  font-family: Calibri;
+  font-size: 15px;
+}
+input.topicReplySubmit, .topicCreateSubmit {
+  background-color: grey;
+  border: 0px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+
+}
+input.topicReplySubmit:hover, .topicCreateSubmit:hover {
+  background-color: #grey;
+  color: white;
+}
+.createTopicButton a {
+  background-color: grey;
+  border: 0px;
+  padding-bottom: 10px;
+}
+.createTopicButton a:hover {
+  background-color: black;
+  color: white;
+}
+#boardIndex ul h3 {
+  background-color: #41b3f5;
+}
+.reportButton-neoboards { 
+  border: 0px !important;
+  text-transform: uppercase;
+  font-size: 9px !important;
+  color: #999 !important;
+  width: 50px;
+  height: 20px;
+  margin-bottom: 0px;
+  overflow: hidden; 
+}
+.reportButton-neoboards:hover {
+  background-color: transparent !important;
+  color: #585858 !important; 
+}
+
+#boardTopic li {
+border-left:1px solid #cacaca; 
+border-right: 1px solid #cacaca;
+}
+
+.boardPostDate {
+  font-weight:normal;
+  }
+
+#boardList li {
+  border-left:1px solid #cacaca; 
+  border-right: 1px solid #cacaca; 
+  border-top: 1px solid #cacaca;
+  }
+  
+li.boardNavTop {
+  border: none !important;
+  }
+
+#container__2020 {
+  border-left:1px solid #cacaca; 
+  border-right: 1px solid #cacaca;
+  }
+
+.hp-bg-grid__2020, .hp-bg-grid__2020 div {
+  background: none;
+  }
+
+div.boardPost {
+  position: relative;
+}
+
+.reportButton-neoboards { 
+  position:absolute;
+  bottom: 0px;
+  right: 0px;
+}
