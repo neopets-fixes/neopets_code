@@ -9,3 +9,4 @@
 <a href="https://raw.githubusercontent.com/neopets-fixes/neopets_code/main/Navigation Script/Nav_Beta.js"><img src="https://i.imgur.com/s2iDB9g.png"></a>
 
 <h3>Navigation w/ Bookmarks</h3>
+<a href="https://raw.githubusercontent.com/neopets-fixes/neopets_code/main/Navigation Script/Nav_Beta_Bookmarks.js"><img src="https://i.imgur.com/s2iDB9g.png"></a>
