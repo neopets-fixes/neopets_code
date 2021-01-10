@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Neopets: Nav Bar / Search Beta (Bookmarks)
+// @name         Neopets: Nav Bar / Search Beta
 // @version      2.0
 // @description  Adds Custom Nav and Google Search to Page
 // @author       neopets-fixes
@@ -42,6 +42,7 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 
 #custom_nav_main li.main_drop:hover ul.dropdown {
 	display: block;
+padding-bottom:5px;
 }
 
 #custom_nav_main li ul li {
@@ -101,7 +102,7 @@ font-weight: bold;
 
 #custom_nav_sub li.sub_drop:hover ul.dropdown2 {
 	display: block;
-	margin-left: 150px;
+	margin-left: 140px;
 	margin-top: -36px;
 	text-align: center;
 }
@@ -120,7 +121,7 @@ font-weight: bold;
 	padding: 0px 0px 0px 0px;
 	list-style: none;
 	text-align: center;
-	margin-left: 150px;
+	margin-left: 140px;
 	border-radius: 0px 15px 15px 15px;
 }
 
@@ -132,6 +133,14 @@ font-weight: bold;
 	text-decoration: none;
 	color: white;
 	text-align: center;
+}
+
+.sub_drop ul:nth-last-of-type(1) {
+border-radius: 0px 0px 15px 15px;
+}
+
+.sub_drop ul:nth-of-type(1) {
+border-radius: 0px 15px 0px 0px;
 }
 
 #custom_nav_sub ul.dropdown2 a:hover {
@@ -163,18 +172,19 @@ overflow: none;
 <ul class="dropdown" style="position: absolute;"><ul id="custom_nav_sub" style="position: relative;"><li class="sub_drop">
 <a href="/myaccount.phtml">My Account</a>
 <ul class="dropdown2" style="position: absolute;">
-	<li><a href="/myaccount.phtml" style="border-radius: 0px 15px 0px 0px;">Control Panel</a></li>
+	<li><a href="/myaccount.phtml">Control Panel</a></li>
 	<li><a href="/preferences.phtml">Preferences</a></li>
   	<li><a href="/userinfo.phtml">Edit Profile</a></li>
    	<li><a href="/neomessages.phtml">Neomail</a></li>
    	<li><a href="/neofriends.phtml">Neofriends</a></li>
    	<li><a href="/addpet.phtml">Create a Neopet</a></li>
-	<li><a href="/space/warehouse/prizecodes.phtml" style="border-radius: 0px 0px 15px 15px;">Redeem Code</a></li>
+	<li><a href="/space/warehouse/prizecodes.phtml" >Redeem Code</a></li>
 </ul></li>
 
 <li class="sub_drop">
 <a href="/customise/">Customise</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/customise/classic.phtml" style="border-radius: 0px 15px 0px 0px;">Customise Neopet</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/customise/classic.phtml">Customise Neopet</a></li>
 	<li><a href="/closet.phtml">Closet</a></li>
 	<li><a href="/neohome/">Neohomes</a></li>
 	<li><a href="/addpet.phtml">Create a Neopet</a></li>
@@ -183,24 +193,27 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/games/">Games</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/games/" style="border-radius: 0px 15px 0px 0px;">Games Room</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/games/">Games Room</a></li>
 	<li><a href="/games/category.phtml?sortby=pop">Popular</a></li>
 	<li><a href="/games/hiscores.phtml">High Scores</a></li>
-	<li><a href="/games/favourites.phtml" style="border-radius: 0px 0px 15px 15px;">Favourites</a></li>
+	<li><a href="/games/favourites.phtml">Favourites</a></li>
 </ul></li>
 
 <li class="sub_drop">
 <a href="/explore.phtml">Explore</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/explore.phtml" style="border-radius: 0px 15px 0px 0px;">Map of Neopia</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/explore.phtml">Map of Neopia</a></li>
 	<li><a href="/help/tutorial/index.phtml">Tutorial</a></li>
 	<li><a href="/neopedia.phtml">Neopedia</a></li>
 	<li><a href="/petcentral.phtml">Pet Central</a></li>
-	<li><a href="/calendar.phtml" style="border-radius: 0px 0px 15px 15px;">Calendar</a></li>
+	<li><a href="/calendar.phtml">Calendar</a></li>
 </ul></li>
 
 <li class="sub_drop">
 <a href="/nf.phtml">News</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/nf.phtml" style="border-radius: 0px 15px 0px 0px;">New Features</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/nf.phtml">New Features</a></li>
 	<li><a href="/comingsoon.phtml">Coming Soon</a></li>
   	<li><a href="/ntimes/index.phtml">Neopian Times</a></li>
 	<li><a href="/stuff.phtml" style="border-radius: 0px 0px 15px 15px;">Merch News</a></li>
@@ -209,42 +222,46 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/community/index.phtml">Community</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/community/index.phtml" style="border-radius: 0px 15px 0px 0px;">Hub</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/community/index.phtml">Hub</a></li>
 	<li><a href="/neoboards/index.phtml">Neoboards</a></li>
 	<li><a href="/contests.phtml">Spotlights</a></li>
-	<li><a href="/guilds/index.phtml" style="border-radius: 0px 0px 15px 15px;">Guilds</a></li>
+	<li><a href="/guilds/index.phtml">Guilds</a></li>
 </ul></li>
 
 <li class="sub_drop">
 <a href="/objects.phtml">Shops</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/objects.phtml" style="border-radius: 0px 15px 0px 0px;">Neopia Central</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/objects.phtml">Neopia Central</a></li>
 	<li><a href="/market.phtml?type=wizard">Shop Wizard</a></li>
 	<li><a href="/market.phtml?type=your">Your Shop</a></li>
 	<li><a href="/inventory.phtml">Inventory</a></li>
 	<li><a href="/auctions.phtml">Auctions</a></li>
 	<li><a href="/island/tradingpost.phtml">Trading Post</a></li>
 	<li><a href="/bank.phtml">Bank</a></li>
-        <li><a href="/shopping/index.phtml" style="border-radius: 0px 0px 15px 15px;">Merchandise</a></li>
+        <li><a href="/shopping/index.phtml">Merchandise</a></li>
     </ul></li>
 
 <li class="sub_drop">
 <a href="/mall/index.phtml">NC Mall</a>
-	<ul class="dropdown2" style="position: absolute;"><li><a href="/mall/index.phtml" style="border-radius: 0px 15px 0px 0px;">Shop</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/mall/index.phtml">Shop</a></li>
 	<li><a href="http://nc.neopets.com/get-nickcash">Get NC</a></li>
 	<li><a href="http://nc.neopets.com/transactionlog/" style="border-radius: 0px 0px 15px 15px;">Transaction Log</a></li>
 </ul></li>
 
 <li class="sub_drop">
 <a href="/inventory.phtml">Bookmarks</a>
-	<ul class="dropdown2" style="position: absolute;"><li><a href="" style="border-radius: 0px 15px 0px 0px;">Bookmark 1</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="">Bookmark 1</a></li>
 	<li><a href="">Bookmark 2</a></li>
-	<li><a href="http://sunnyneo.com/dailies.php" style="border-radius: 0px 0px 15px 15px;" title="Add additional links above this one" target="_blank">Dailies</a></li>
+	<li><a href="">Bookmark 3</a></li>
 </ul></li>
 
 <li class="sub_drop">
-<a href="http://nc.neopets.com/membership/" style="border-radius: 0px 0px 0px 15px; padding-bottom: 15px;">Premium</a>
-<ul class="dropdown2" style="position: absolute; border-radius: 0px 15px 15px 0px; margin-left: 150px; margin-top: -40px;padding-bottom: 5px;">
-	<li><a href="http://nc.neopets.com/membership/" style="border-radius: 0px 15px 15px 0px;">Become a Member</a></li>
+<a href="http://nc.neopets.com/membership/">Premium</a>
+<ul class="dropdown2" style="position: absolute; margin-left: 140px; margin-top: -35px;;padding-bottom: 5px;">
+	<li><a href="http://nc.neopets.com/membership/">Become a Member</a></li>
   </ul></li>
 
 </ul></ul></li></ul>
