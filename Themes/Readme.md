@@ -7,6 +7,6 @@
 <p>
  
 <h2>Screenshots</h2>
-<i>(Drag and drop for full screen preview.)</i>
+<i>(Drag and drop for full screen preview.)</i><p>
 <b>Desert Theme</b><br>
-<img src="https://i.imgur.com/CTExkcs.png" style="width:30%; height: 30%">
+<img src="https://i.imgur.com/CTExkcs.png" style="width:30%; height: 30%;">
