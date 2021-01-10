@@ -1,0 +1,43 @@
+<b>Extensions required for use:<br>
+
+Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (Navigation / Search Beta)<br>
+Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css)
+</b>
+
+<b>Navigation Notes:</b>
+Original 2007 navigation links referenced. 
+Inventory added to Shops for quick reference.
+Bookmarks section added for convenience.
+<p>
+The script to inject the navigation works separately from the CSS changes. The <b>Navigation Script</b> can be used <i>without</i> changing the CSS/Theme of your pages, however it has been designed to work 
+optimally with the CSS/Theme changes active.
+<p>
+The CSS changes have been created in such a way that the template has been completely customizable. If you have knowledge of coding and CSS from petpages and userlookups, this will be 
+very easy to change. The CSS Themes also update a lot of small aesthetic changes that TNT missed when updating (padding, text colors, font-faces, etc.)
+<p>
+These files apply currently to what TNT has released from their mobile-friendly layout update. Any future changes from TNT to the site may require revisions to both this script and 
+the style page.
+<p>
+Both of these updates act as aesthetic changes and are only meant to change the user experience of playing Neopets. These changes are not meant to alter the aspect of online gaming 
+in any way apart from UX.
+<p>
+Search function has been added to the footer. Unfortunately, it will search Google, but you can select the site you'd like it to search. I intended to recreate the search function
+of Neopets itself, but I was unable to, I suspect because of the way the results page is created (this is why I assume it's not working on the Beta as well).
+<p>
+The themes for this layout was designed to be aesthetically pleasing, Neopets related and simple.
+
+Special thanks:
+to Maya (sunbathr) for the inspiration
+to Robbie (rawbeee) for the base css to play with
+to the two friends who tested this code to ensure there were no missing parts
+the non-Neopets friend who helped guide me through coding my first script.
+
+Many thanks to all of the friends who helped me through creating this, both with feedback on the design itself as well as the accessability updates.
+
+If you have UX suggestions, I am happy to fix and update. Please send them to neopets-betafix@outlook.com and be as descriptive as you can! (Screenshots help too.)
+
+Final Note:
+It's been interesting to see the things that the devs at TNT have coded, purposely left out, and missed. There are so many tiny aestethtic changes that were required (font-face updates,
+padding updates, etc.). I started to list them all, but the CSS needs a complete overhaul. I don't intend to be disrespectful, but I had to add a lot of code to fix the fine details.
+
+<b>These codes are specifically designed to change the aesthetics/UX of Neopets.com and in no way are intented to alter any specific advantages of gameplay.
