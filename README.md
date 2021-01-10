@@ -29,11 +29,11 @@ of Neopets itself, but I was unable to, I suspect because of the way the results
 The themes for this layout was designed to be aesthetically pleasing, Neopets related and simple.
  <i>The themes for this may alter the body backgrounds of custom layouts (petpages, userlookups, guilds, etc.). The design fix is to update your layout by adding <b>!important</b> to the end of your background code in your layout html.</i>
 
-Special thanks:
-to Maya (sunbathr) for the inspiration
-to Robbie (rawbeee) for the base css to play with
-to the two friends who tested this code to ensure there were no missing parts
-the non-Neopets friend who helped guide me through coding my first script.
+<b>Special thanks:
+<br>to Maya (sunbathr) for the inspiration
+<br>to Robbie (rawbeee) for the base css to play with
+<br>to the two friends who tested this code to ensure there were no missing parts
+<br>the non-Neopets friend who helped guide me through coding my first script.
 
 Many thanks to all of the friends who helped me through creating this, both with feedback on the design itself as well as the accessability updates.
 
