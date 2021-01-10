@@ -183,7 +183,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/customise/">Customise</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/customise/classic.phtml">Customise Neopet</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/customise/classic.phtml">Customise Neopet</a></li>
 	<li><a href="/closet.phtml">Closet</a></li>
 	<li><a href="/neohome/">Neohomes</a></li>
 	<li><a href="/addpet.phtml">Create a Neopet</a></li>
@@ -192,7 +193,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/games/">Games</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/games/">Games Room</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/games/">Games Room</a></li>
 	<li><a href="/games/category.phtml?sortby=pop">Popular</a></li>
 	<li><a href="/games/hiscores.phtml">High Scores</a></li>
 	<li><a href="/games/favourites.phtml">Favourites</a></li>
@@ -200,7 +202,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/explore.phtml">Explore</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/explore.phtml">Map of Neopia</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/explore.phtml">Map of Neopia</a></li>
 	<li><a href="/help/tutorial/index.phtml">Tutorial</a></li>
 	<li><a href="/neopedia.phtml">Neopedia</a></li>
 	<li><a href="/petcentral.phtml">Pet Central</a></li>
@@ -209,7 +212,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/nf.phtml">News</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/nf.phtml">New Features</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/nf.phtml">New Features</a></li>
 	<li><a href="/comingsoon.phtml">Coming Soon</a></li>
   	<li><a href="/ntimes/index.phtml">Neopian Times</a></li>
 	<li><a href="/stuff.phtml" style="border-radius: 0px 0px 15px 15px;">Merch News</a></li>
@@ -218,7 +222,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/community/index.phtml">Community</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/community/index.phtml">Hub</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/community/index.phtml">Hub</a></li>
 	<li><a href="/neoboards/index.phtml">Neoboards</a></li>
 	<li><a href="/contests.phtml">Spotlights</a></li>
 	<li><a href="/guilds/index.phtml">Guilds</a></li>
@@ -226,7 +231,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/objects.phtml">Shops</a>
-<ul class="dropdown2" style="position: absolute;"><li><a href="/objects.phtml">Neopia Central</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/objects.phtml">Neopia Central</a></li>
 	<li><a href="/market.phtml?type=wizard">Shop Wizard</a></li>
 	<li><a href="/market.phtml?type=your">Your Shop</a></li>
 	<li><a href="/inventory.phtml">Inventory</a></li>
@@ -238,7 +244,8 @@ overflow: none;
 
 <li class="sub_drop">
 <a href="/mall/index.phtml">NC Mall</a>
-	<ul class="dropdown2" style="position: absolute;"><li><a href="/mall/index.phtml">Shop</a></li>
+<ul class="dropdown2" style="position: absolute;">
+        <li><a href="/mall/index.phtml">Shop</a></li>
 	<li><a href="http://nc.neopets.com/get-nickcash">Get NC</a></li>
 	<li><a href="http://nc.neopets.com/transactionlog/" style="border-radius: 0px 0px 15px 15px;">Transaction Log</a></li>
 </ul></li>
