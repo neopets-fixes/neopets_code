@@ -235,6 +235,7 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 	<li><a href="/market.phtml?type=wizard">Shop Wizard</a></li>
 	<li><a href="/market.phtml?type=your">Your Shop</a></li>
 	<li><a href="/inventory.phtml">Inventory</a></li>
+        <li><a href="/quickstock.phtml">Quickstock</a></li>
 	<li><a href="/auctions.phtml">Auctions</a></li>
 	<li><a href="/island/tradingpost.phtml">Trading Post</a></li>
 	<li><a href="/bank.phtml">Bank</a></li>
