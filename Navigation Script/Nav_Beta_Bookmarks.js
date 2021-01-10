@@ -181,7 +181,7 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 </ul></li>
 
 <li class="sub_drop">
-<a href="/customise/">Customise</a>
+<a href="/customise/classic.phtml">Customise</a>
 <ul class="dropdown2" style="position: absolute;">
         <li><a href="/customise/classic.phtml">Customise Neopet</a></li>
 	<li><a href="/closet.phtml">Closet</a></li>
