@@ -10,3 +10,7 @@
 
 <h3>Navigation w/ Bookmarks</h3>
 <a href="https://raw.githubusercontent.com/neopets-fixes/neopets_code/main/Navigation Script/Nav_Beta_Bookmarks.js"><img src="https://i.imgur.com/s2iDB9g.png"></a>
+<p><h4>Editing the Bookmarks</h4>
+<p>
+ - Ctrl+F Bookmarks, edit the HTML links below:
+ <textarea><li><a href="">Bookmark</a></li></textarea>
