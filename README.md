@@ -1,7 +1,9 @@
-<b>Extensions required for use:<br>
+<h1>Important Information</hi>
+
+<p><b>Extensions required for use:<br>
 
 Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (Navigation / Search Beta)<br>
-Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css)
+Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</i>
 </b>
 
 <b>Navigation Notes:</b>
@@ -41,3 +43,10 @@ It's been interesting to see the things that the devs at TNT have coded, purpose
 padding updates, etc.). I started to list them all, but the CSS needs a complete overhaul. I don't intend to be disrespectful, but I had to add a lot of code to fix the fine details.
 
 <b>These codes are specifically designed to change the aesthetics/UX of Neopets.com and in no way are intented to alter any specific advantages of gameplay.
+
+<h2>Installing the Theme</h2>
+<p>
+- Download Stylebot Extension
+<br>- Stylebot > Options > New style
+<br>- Enter url: <i>www.neopets.com</i>
+ <br>- Copy & paste CSS into the body - <b>do not add style tags!</b>
