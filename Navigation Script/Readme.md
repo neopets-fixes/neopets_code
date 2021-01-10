@@ -5,3 +5,7 @@
 <br>- Copy & paste code into the body > save as new script
 <br>- Alter HTML of links if you have included the bookmark option.
 
+<h3>Navigation</h3>
+
+
+<h3>Navigation w/ Bookmarks</h3>
