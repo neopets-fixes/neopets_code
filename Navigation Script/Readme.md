@@ -1,4 +1,9 @@
-<h1>Installing the Navigation</h1>
+<h1>Info</h1>
+Quality of life fixes have been added to the original Neopets Navigation. <br>
+<i>Inventory & Quickstock added under shops.</i>
+<br><i>Classic Customize link replaces beta.</i>
+
+<h2>Installing the Navigation</h2>
  <p>
  - Download Tampermonkey Extension (https://www.tampermonkey.net/)
 <br>- Tampermonkey > Dashboard > + (Add new script)
