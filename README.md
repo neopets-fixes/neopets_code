@@ -27,6 +27,7 @@ Search function has been added to the footer. Unfortunately, it will search Goog
 of Neopets itself, but I was unable to, I suspect because of the way the results page is created (this is why I assume it's not working on the Beta as well).
 <p>
 The themes for this layout was designed to be aesthetically pleasing, Neopets related and simple.
+ <i>The themes for this may alter the body backgrounds of custom layouts (petpages, userlookups, guilds, etc.). The design fix is to update your layout by adding <b>!important</b> to the end of your background code in your layout html.
 
 Special thanks:
 to Maya (sunbathr) for the inspiration
@@ -42,11 +43,11 @@ Final Note:
 It's been interesting to see the things that the devs at TNT have coded, purposely left out, and missed. There are so many tiny aestethtic changes that were required (font-face updates,
 padding updates, etc.). I started to list them all, but the CSS needs a complete overhaul. I don't intend to be disrespectful, but I had to add a lot of code to fix the fine details.
 
-<b>These codes are specifically designed to change the aesthetics/UX of Neopets.com and in no way are intented to alter any specific advantages of gameplay.
+<b><i>These codes are specifically designed to change the aesthetics/UX of Neopets.com and in no way are intented to alter any specific advantages of gameplay.</i></b>
 
 <h2>Installing the Theme</h2>
 <p>
-- Download Stylebot Extension
+- Download Stylebot Extension (https://stylebot.dev/)
 <br>- Stylebot > Options > New style
 <br>- Enter url: <i>www.neopets.com</i>
  <br>- Copy & paste CSS into the body - <b>do not add style tags!</b>
