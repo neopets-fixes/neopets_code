@@ -1,4 +1,4 @@
-<h1>Important Information</hi>
+<h1>Important Information</h1>
 
 <p><b>Extensions required for use:<br>
 
