@@ -17,4 +17,4 @@
  <br>- Save script
  
  <p><h1>Screenshots</h1>
- <center><img src="https://i.imgur.com/h781aiQ.png"></center>
+ <center><img src="https://i.imgur.com/HU23tle.png"></center>
