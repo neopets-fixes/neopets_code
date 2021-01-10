@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Neopets: Nav Bar / Search Beta
+// @name         Neopets: Nav Bar / Search Beta (w/ Bookmarks)
 // @version      2.0
 // @description  Adds Custom Nav and Google Search to Page
 // @author       neopets-fixes
@@ -42,7 +42,7 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 
 #custom_nav_main li.main_drop:hover ul.dropdown {
 	display: block;
-padding-bottom:5px;
+        padding-bottom:5px;
 }
 
 #custom_nav_main li ul li {
@@ -77,7 +77,7 @@ padding-bottom:5px;
 }
 
 #custom_nav_main ul.dropdown a:hover, #custom_nav_sub ul.dropdown a:hover {
-font-weight: bold;
+        font-weight: bold;
 	color: #e6b81a;
 }
 
@@ -136,11 +136,11 @@ font-weight: bold;
 }
 
 .sub_drop ul:nth-last-of-type(1) {
-border-radius: 0px 0px 15px 15px;
+        border-radius: 0px 0px 15px 15px;
 }
 
 .sub_drop ul:nth-of-type(1) {
-border-radius: 0px 15px 0px 0px;
+        border-radius: 0px 15px 0px 0px;
 }
 
 #custom_nav_sub ul.dropdown2 a:hover {
@@ -149,14 +149,13 @@ border-radius: 0px 15px 0px 0px;
 }
 
 #searchbar {
-border: 1px solid #cfcfcf;
-  background-image: url("https://i.imgur.com/1BtMc3Z.png");
-  border-radius: 15px;
-padding: 20px;
-
-width:250px;
-overflow: none;
-    text-align:left;
+        border: 1px solid #cfcfcf;
+        background-image: url("https://i.imgur.com/1BtMc3Z.png");
+        border-radius: 15px;
+        padding: 20px;
+        width:250px;
+        overflow: none;
+        text-align:left;
 }
     `);
 
