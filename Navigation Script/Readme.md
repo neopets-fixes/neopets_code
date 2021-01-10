@@ -6,6 +6,6 @@
 <br>- Alter HTML of links if you have included the bookmark option.
 
 <h3>Navigation</h3>
-<a href="https://raw.githubusercontent.com/neopets-fixes/neopets_code/main/Navigation_Script/Nav_Beta.js"><img src="https://github.com/w35l3y/userscripts/raw/master/resources/image/install_button.jpg"></a>
+<a href="https://raw.githubusercontent.com/neopets-fixes/neopets_code/main/Navigation Script/Nav_Beta.js"><img src="https://github.com/w35l3y/userscripts/raw/master/resources/image/install_button.jpg"></a>
 
 <h3>Navigation w/ Bookmarks</h3>
