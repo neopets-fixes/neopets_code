@@ -10,7 +10,7 @@ Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</
 <h2>Update Notes:</h2><br>
 <b>01/11/2021</b> TNT ain't getting my coins for Premium, so I didn't know a new menu existed. It sits grossly, off-centered in the menu. You can hide it in your <b>Stylebot</b> CSS code by adding the following anywhere into the code:
 <br> .nav-premium__2020 {display: none;}
-<br>The Premium portal link can easily be changed in your <b>Tampermonkey</b> navigation script from <i>http://nc.neopets.com/membership/</i> to: <i>http://www.neopets.com/premium/</i>. Thanks Amy for helping fix this one!
+<br>The Premium portal link can easily be changed in your <b>Tampermonkey</b> navigation script from <i>http://nc.neopets.com/membership/</i> to: <i>http://www.neopets.com/premium/</i>. Thanks Amy for helping fix this one! <i>Codes will not be updated to reflect this. As Premium is a paid feature, I will leave it up to users to decide if they want the link or not. It is not up to me to remove it.</i>
 <p><br>
 <b>01/11/2021</b> There have been a number of requests for specific themes. I love the overwhelming support, but specific theme requests will become daunting at a certain point. That said, I will be creating new themes as inspiration strikes. <i>Rumor has it, Dr. Sloth really wants to use a dark theme...</i> Check back for updates!
 <p>
