@@ -7,6 +7,9 @@ Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (N
 Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</i>
 </b>
 
+<h2>Update Refs:</h2><br>
+<b>01/11/2021</b> There have been a number of requests for specific themes. I love the overwhelming support, but specific theme requests will become daunting at a certain point. That said, I will be creating new themes as inspiration strikes. Rumor has it, Dr. Sloth really wanted me to make a dark theme... Check back for updates!
+
 <b>Navigation Notes:</b>
 Original 2007 navigation links referenced. 
 Inventory added to Shops for quick reference.
