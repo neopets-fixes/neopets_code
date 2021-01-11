@@ -157,6 +157,14 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
         overflow: none;
         text-align:left;
 }
+
+.quickreference {
+        width: 50px !important;
+        height: 50px !important;
+        border-radius: 100;
+        background-color: none;
+        display:block;
+}
     `);
 
     document.addEventListener("DOMContentLoaded", function () {
@@ -251,7 +259,7 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 </ul></li>
 
 <li class="sub_drop">
-<a href="http://nc.neopets.com/membership/">Premium</a>
+<a href="http://www.neopets.com/premium/">Premium Portal</a>
 <ul class="dropdown2" style="position: absolute; margin-left: 140px; margin-top: -35px;;padding-bottom: 5px;">
 	<li><a href="http://nc.neopets.com/membership/">Become a Member</a></li>
   </ul></li>
@@ -278,3 +286,10 @@ function addSearch() {
   $(".footer-copyright__2020").append(html_add);
  }
 document.addEventListener('DOMContentLoaded', addSearch);
+
+ function addquickref() {
+  var html_add = `<a href="/quickref.phtml" class="quickreference"> </a>
+`;
+  $(".nav-pet-menu-icon__2020").append(html_add);
+ }
+document.addEventListener('DOMContentLoaded', addquickref);
