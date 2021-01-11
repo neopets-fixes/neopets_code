@@ -159,11 +159,13 @@ var id = ("custom_nav_main" + Math.floor(Math.random() * 100000));
 }
 
 .quickreference {
+        margin-left:-65px;
+        margin-top:-3px;
         width: 50px !important;
         height: 50px !important;
         border-radius: 100;
         background-color: none;
-        display:block;
+        display: block;
 }
     `);
 
@@ -298,6 +300,6 @@ document.addEventListener('DOMContentLoaded', addSearch);
  function addquickref() {
   var html_add = `<a href="/quickref.phtml" class="quickreference"> </a>
 `;
-  $(".nav-pet-menu-icon__2020").append(html_add);
+  $(".nav-logo__2020").prepend(html_add);
  }
 document.addEventListener('DOMContentLoaded', addquickref);
