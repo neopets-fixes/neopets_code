@@ -7,7 +7,7 @@ Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (N
 Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</i>
 </b>
 
-<h2>Update Refs:</h2><br>
+<h2>Update Notes:</h2><br>
 <b>01/11/2021</b> There have been a number of requests for specific themes. I love the overwhelming support, but specific theme requests will become daunting at a certain point. That said, I will be creating new themes as inspiration strikes. <i>Rumor has it, Dr. Sloth really wants to use a dark theme...</i> Check back for updates!
 <p>
  <h2>Read Me</h2>
