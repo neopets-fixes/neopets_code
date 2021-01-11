@@ -69,3 +69,7 @@ It's been interesting to see the things that the devs at TNT have coded, purpose
 <br>- Tampermonkey > Dashboard > + (Add new script)
 <br>- Copy & paste code into the body > save as new script
 <br>- Alter HTML of links if you have included the bookmark option.
+ 
+ <h2>Bonus Memes</h2><p>
+ 
+ <img src="https://i.imgur.com/YZxOsyq.png">
