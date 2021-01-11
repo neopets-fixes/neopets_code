@@ -2,7 +2,8 @@
 
 <p><b>Extensions required for use:<br>
 
-Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (Navigation / Search Beta)<br> <i>See below.</i>
+Tampermonkey or Greasemonkey (to enable script) https://www.tampermonkey.net/ (Navigation / Search Beta)<i>See below.</i><br>
+
 Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</i>
 </b>
 
