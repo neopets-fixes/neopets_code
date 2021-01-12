@@ -5,7 +5,7 @@ Quality of life fixes have been added to the original Neopets Navigation. <br>
 
 <h2>Updates</h2>
 <b>01/12/2021</b> I've realized that adding the QUICKREF function to the Navigation script will make the sidebar unusable, which becomes a problem if you're not using an optional theme. The chunk of code to remove if you're not using an optional theme has been marked as such at the bottom of the script. My apologies!
-
+<img src="https://i.imgur.com/Sk89e4A.png">
 
 <h2>Installing the Navigation</h2>
  <p>
