@@ -8,6 +8,8 @@ Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</
 </b>
 
 <h2>Update Notes:</h2><br>
+<b>01/12/2021</b> The Quickref option will mess with the sidebar if you choose not to use an optional theme. The fix has been updated in the README.md in the Navigation Scripts folder.<p>
+ 
 
 <b>01/11/2021</b> I'm the worst for all of the updates, but the <b>Navigation Scripts</b> have been updated so the Pet Image in the top left of the screen are now a link to Quickref.<p>
  <br>
