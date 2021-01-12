@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Neopets: Nav Bar / Search Beta
-// @version      2.0
+// @version      2.1
 // @description  Adds Custom Nav and Google Search to Page
 // @author       neopets-fixes
 // @match        http://www.neopets.com/*
@@ -288,6 +288,8 @@ function addSearch() {
   $(".footer-copyright__2020").append(html_add);
  }
 document.addEventListener('DOMContentLoaded', addSearch);
+
+/* Remove below code if not using a custom theme */
 
  function addquickref() {
   var html_add = `<a href="/quickref.phtml" class="quickreference"> </a>
