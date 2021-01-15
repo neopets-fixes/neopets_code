@@ -16,6 +16,7 @@ body {
 #container__2020 {
   background-image: url("https://i.imgur.com/0px7JSX.png") !important;
   background-size: cover; 
+  width: 90% !important;
 	}
 
 #container__2020 .medText a {
