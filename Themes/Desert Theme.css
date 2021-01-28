@@ -86,7 +86,7 @@ color: black;
 
 /* Customize Nav Bar */
 
-.nav-community__2020, .nav-games__2020, .nav-explore__2020, .nav-shop__2020, .nav-premium__2020.nav-link-leave-beta__2020, .dropdown-triangle-up__2020, #navprofiledropdown__2020 ul,  .nav-calendar-icon__2020.nav-link-leave-beta__2020, #navProfilePetBox__2020 {display:none;}
+.nav-premium__2020, .nav-community__2020, .nav-games__2020, .nav-explore__2020, .nav-shop__2020, .nav-premium__2020.nav-link-leave-beta__2020, .dropdown-triangle-up__2020, #navprofiledropdown__2020 ul,  .nav-calendar-icon__2020.nav-link-leave-beta__2020, #navProfilePetBox__2020 {display:none;}
 
 .nav-top__2020 {
   z-index: 99;
@@ -108,6 +108,9 @@ color: black;
   	color: #000;
 	  font-family: "Cafeteria", 'Arial Bold', sans-serif;
 	  text-align: center;
+}
+.nav-profile-dropdown-clock__2020 {
+	border: none !important;
 }
 
 /* FOOTER */
