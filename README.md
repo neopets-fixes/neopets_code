@@ -8,6 +8,16 @@ Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</
 </b>
 
 <h2>Update Notes:</h2><br>
+
+<b>01/28/2021</b> TNT has updated the beta layout, messing a little bit with any of the themes. Add the following codes to <b>Stylebot</b> to adjust for what has been updated.<br>
+.nav-profile-dropdown-clock__2020 {<br>
+  border: none !important;<br>
+}<br>
+.nav-premium__2020 {<br>
+  display:none;<br>
+  }<p>
+
+
 <b>01/12/2021</b> The Quickref option will mess with the sidebar if you choose not to use an optional theme. The fix has been updated in the README.md in the Navigation Scripts folder.<p>
  
 
