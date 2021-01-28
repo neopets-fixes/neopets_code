@@ -16,6 +16,7 @@ Stylebot (to enable CSS edits) https://stylebot.dev/ (theme.css) <i>See below.</
 .nav-premium__2020 {<br>
   display:none;<br>
   }</i><p>
+  <b>The theme codes in the repository have already been updated to reflect this.</b>
 
 
 <b>01/12/2021</b> The Quickref option will mess with the sidebar if you choose not to use an optional theme. The fix has been updated in the README.md in the Navigation Scripts folder.<p>
