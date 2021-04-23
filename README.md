@@ -52,7 +52,6 @@ Search function has been added to the footer. Unfortunately, it will search Goog
 of Neopets itself, but I was unable to, I suspect because of the way the results page is created (this is why I assume it's not working on the Beta as well).
 <p>
 The themes for this layout was designed to be aesthetically pleasing, Neopets related and simple.
- <i>The themes for this may alter the body backgrounds of custom layouts (petpages, userlookups, guilds, etc.). The design fix is to update your layout by adding <b>!important</b> to the end of your background code in your layout html.</i>
 
 <b>Special thanks:</b>
 <br>to Maya (sunbathr) for the inspiration
@@ -60,15 +59,7 @@ The themes for this layout was designed to be aesthetically pleasing, Neopets re
 <br>to the two friends who tested this code to ensure there were no missing parts
 <br>the non-Neopets friend who helped guide me through coding my first script.
 
-Many thanks to all of the friends who helped me through creating this, both with feedback on the design itself as well as the accessability updates.
-
-If you have UX suggestions, I am happy to fix and update. Please send them to neopets-betafix@outlook.com and be as descriptive as you can! (Screenshots help too.)
-
-<b>Final Note:</b>
-It's been interesting to see the things that the devs at TNT have coded, purposely left out, and missed. There are so many tiny aesthetic changes that were required (font-face updates, padding updates, etc.). I started to list them all, but the CSS needs a complete overhaul. I don't intend to be disrespectful, but I had to add a lot of code to fix the fine details. If TNT reads this and would like to contact me, I would be <b>SO HAPPY</b> to help them fine tune the little things. We love this site and my codes have been created to help us continue to love it.
-
-<b><i>These codes are specifically designed to change the aesthetics/UX of Neopets.com and in no way are intented to alter any specific advantages of gameplay. That said, please use at your own risk. Do not discuss script usage on Neopets. The current thoughts about aesthetic altering scripts with TNT are unknown.</i></b>
-
+M
 <h2>Installing the Theme</h2>
 <p>
 - Download Stylebot Extension (https://stylebot.dev/)
